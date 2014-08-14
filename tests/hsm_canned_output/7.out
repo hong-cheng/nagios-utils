@@ -1,0 +1,83 @@
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+Detecting Luna devices ...
+Detection complete.
+
+----------------------------------------
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+----------------------------------------
+Slot under test: 1
+
+[Testing slot 1]
+
+   HSM policies:
+       0: PIN-based authentication - ENABLED
+       1: PED-based authentication - DISABLED
+       6: Allow masking - DISABLED
+       7: Allow cloning - ENABLED
+      12: Allow non-FIPS algorithms - ENABLED
+      15: SO can reset partition PIN - ENABLED
+      16: Allow network replication - ENABLED
+      20: Allow Remote Authentication - ENABLED
+      21: Force user PIN change after set/reset - DISABLED
+      22: Allow offboard storage - ENABLED
+      23: Allow partition groups - DISABLED
+      25: Allow remote PED usage - DISABLED
+      26: Store MTK Split Externally - DISABLED
+      29: Allow Acceleration - ENABLED
+      30: Allow unmasking - ENABLED
+
+   SO policies:
+       0: Allow private key cloning - ENABLED
+       1: Allow private key wrapping - DISABLED
+       2: Allow private key unwrapping - ENABLED
+       3: Allow private key masking - DISABLED
+       4: Allow secret key cloning - ENABLED
+       5: Allow secret key wrapping - ENABLED
+       6: Allow secret key unwrapping - ENABLED
+       7: Allow secret key masking - DISABLED
+      10: Allow multipurpose keys - ENABLED
+      11: Allow changing key attributes - ENABLED
+      14: Challenge for authentication not needed - ENABLED
+      15: Ignore failed challenge responses - ENABLED
+      16: Operate without RSA blinding - ENABLED
+      17: Allow signing with non-local keys - ENABLED
+      18: Allow raw RSA operations - ENABLED
+      20: Max failed user logins allowed - 3
+      21: Allow high availability recovery - ENABLED
+      22: Allow activation - DISABLED
+      23: Allow auto-activation - DISABLED
+      25: Minimum pin length (inverted: 255 - min) - 248
+      26: Maximum pin length - 255
+      28: Allow Key Management Functions - ENABLED
+      29: Perform RSA signing without confirmation - ENABLED
+      30: Allow Remote Authentication - ENABLED
+      31: Allow private key unmasking - ENABLED
+      32: Allow secret key unmasking - ENABLED
+
+   User policies:
+       0: Allow private key cloning - ENABLED
+       1: Allow private key wrapping - DISABLED
+       2: Allow private key unwrapping - ENABLED
+       3: Allow private key masking - DISABLED
+       4: Allow secret key cloning - ENABLED
+       5: Allow secret key wrapping - ENABLED
+       6: Allow secret key unwrapping - ENABLED
+       7: Allow secret key masking - DISABLED
+      10: Allow multipurpose keys - ENABLED
+      11: Allow changing key attributes - ENABLED
+      14: Challenge for authentication not needed - ENABLED
+      15: Ignore failed challenge responses - ENABLED
+      16: Operate without RSA blinding - ENABLED
+      17: Allow signing with non-local keys - ENABLED
+      18: Allow raw RSA operations - ENABLED
+      20: Max failed user logins allowed - 10
+      21: Allow high availability recovery - ENABLED
+      22: Allow activation - DISABLED
+      23: Allow auto-activation - DISABLED
+      25: Minimum pin length (inverted: 255 - min) - 248
+      26: Maximum pin length - 255
+      28: Allow Key Management Functions - ENABLED
+      29: Perform RSA signing without confirmation - ENABLED
+      30: Allow Remote Authentication - ENABLED
+      31: Allow private key unmasking - ENABLED
+      32: Allow secret key unmasking - ENABLED

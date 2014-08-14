@@ -1,0 +1,30 @@
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+Detecting Luna devices ...
+Detection complete.
+
+----------------------------------------
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+----------------------------------------
+Slot under test: 1
+
+[Testing slot 1]
+TSV: 0xa5930102
+	Domestic Token = 1
+	Missing MTK Flag = 0
+	Server Flag = 1
+	Erasure Flag = 0
+	TPV Flag = 0
+	TLO Flag = 1
+	CVK Flag = 0
+	TSK Flag = 1
+	TUK Flag = 1
+	TWC Flag = 0
+	KCV Flag = 0
+	Masking Key Set = 1
+	CRC Error Flag = 0
+	RNG Error Flag = 0
+	MEM Error Flag = 0
+	DEV Error Flag = 0
+	User Count = 1
+	Operation State Mask = 2
+	Volatile Access Mask = 3

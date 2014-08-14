@@ -1,0 +1,61 @@
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+Detecting Luna devices ...
+Detection complete.
+
+----------------------------------------
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+----------------------------------------
+Slot under test: 1
+
+[Testing slot 1]
+----------
+DEBUG INFO
+
+    2:  Hardware revision 1. 
+    3:  Boot block revision K6 1.7.0. 
+    4:  Date: Apr 30 2013. 
+    5:  Time: 18:15:14. 
+    6:  64MB FLASH memory. 
+    7:  256MB RAM memory. 
+    8:  Executing main image 
+    9:  HOST:CSR 
+   10:  Dualport DMA enabled. 
+   11:  LOG(INFO):     Warm boot 
+   12:  LOG(INFO):     FW Rev 6.2.1-10 
+   13:  LOG(INFO):     File: SOURCE/LUNA2/MAIN_MOD/main.c 
+   14:  LOG(INFO):     Date: Jul 29 2011, Time: 16:53:13 
+   15:  LOG(INFO):     POWER-UP LOG DUMP START 
+   16:  LOG(INFO):     Power-up log created 
+   17:  LOG(INFO):     Appending power-up log... 
+   18:  LOG(INFO):     HSM is powered-up 
+   19:  LOG(INFO):     HSM time: 158818 min (YYYY:MM:DD:hh:mm:ss = 0000:04:20:06:58:02.36) 
+   20:  LOG(INFO):     POWER-UP LOG DUMP END 
+   21:  LOG(INFO):     Erasing power-up log 
+   22:  LOG(INFO):     HSM time: 158822 min (YYYY:MM:DD:hh:mm:ss = 0000:04:20:07:02:27.37) 
+   23:  LOG(INFO):     MM_Init OK 
+   24:  LOG(INFO):     PM_Init OK 
+   25:  LOG(INFO):     I2C_Init OK 
+   26:  LOG(INFO):     RTC_Init OK 
+   27:  LOG(INFO):     NVRAM_Init OK 
+   28:  LOG(INFO):     CGX Ver: 0xC0020802 HA Mode: 0x00000000 KeyStatus: 0x10000001 0x00000000 ES Flags: 0x00000002 
+   29:  LOG(INFO):     CGX_Init OK 
+   30:  LOG(INFO):     MTK_Init OK 
+   31:  LOG(INFO):     sxl_init OK 
+   32:  LOG(INFO):     PE1746_Init OK 
+   33:  LOG(INFO):     RN_Init OK 
+   34:  LOG(INFO):     OH_Init OK 
+   35:  LOG(INFO):     CA_Init OK 
+   36:  LOG(INFO):     UM_Init OK 
+   37:  LOG(INFO):     SM_Init OK 
+   38:  LOG(INFO):     Supported callback I/O v.1 
+   39:  LOG(INFO):     Supported callback protocol v.1 
+----------
+TRACE INFO
+
+# Error(hex) Line  File
+--------------------------------------------------------
+0 00700000 00170heck_operation.c
+1 00700000 00170heck_operation.c
+8 00700000 00170heck_operation.c
+9 00700000 00170heck_operation.c
+
