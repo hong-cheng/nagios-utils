@@ -1,0 +1,93 @@
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+Detecting Luna devices ...
+Detection complete.
+
+----------------------------------------
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+----------------------------------------
+Slot under test: 1
+
+[Testing slot 1]
+
+   HSM capabilities:
+       0: Enable PIN-based authentication - ENABLED
+       1: Enable PED-based authentication - DISABLED
+       2: Performance level - 15
+       4: Enable domestic mechanisms & key sizes - ENABLED
+       6: Enable masking - DISABLED
+       7: Enable cloning - ENABLED
+       8: Enable special cloning certificate - DISABLED
+       9: Enable full (non-backup) functionality - ENABLED
+      11: Enable ECC mechanisms - ENABLED
+      12: Enable non-FIPS algorithms - ENABLED
+      15: Enable SO reset of partition PIN - ENABLED
+      16: Enable network replication - ENABLED
+      17: Enable Korean Algorithms - DISABLED
+      18: FIPS evaluated - DISABLED
+      19: Manufacturing Token - DISABLED
+      20: Enable Remote Authentication - ENABLED
+      21: Enable forcing user PIN change - ENABLED
+      22: Enable offboard storage - ENABLED
+      23: Enable partition groups - DISABLED
+      25: Enable remote PED usage - DISABLED
+      26: Enable External Storage of MTK Split - DISABLED
+      27: HSM non-volatile storage space - 2097152
+      28: Enable HA mode CGX - DISABLED
+      29: Enable Acceleration - ENABLED
+      30: Enable unmasking - ENABLED
+
+   SO capabilities:
+       0: Enable private key cloning - ENABLED
+       1: Enable private key wrapping - DISABLED
+       2: Enable private key unwrapping - ENABLED
+       3: Enable private key masking - DISABLED
+       4: Enable secret key cloning - ENABLED
+       5: Enable secret key wrapping - ENABLED
+       6: Enable secret key unwrapping - ENABLED
+       7: Enable secret key masking - DISABLED
+      10: Enable multipurpose keys - ENABLED
+      11: Enable changing key attributes - ENABLED
+      14: Enable PED use without challenge - ENABLED
+      15: Allow failed challenge responses - ENABLED
+      16: Enable operation without RSA blinding - ENABLED
+      17: Enable signing with non-local keys - ENABLED
+      18: Enable raw RSA operations - ENABLED
+      20: Max failed user logins allowed - 3
+      21: Enable high availability recovery - ENABLED
+      22: Enable activation - DISABLED
+      23: Enable auto-activation - DISABLED
+      25: Minimum pin length (inverted: 255 - min) - 248
+      26: Maximum pin length - 255
+      28: Enable Key Management Functions - ENABLED
+      29: Enable RSA signing without confirmation - ENABLED
+      30: Enable Remote Authentication - ENABLED
+      31: Enable private key unmasking - ENABLED
+      32: Enable secret key unmasking - ENABLED
+
+   User capabilities:
+       0: Enable private key cloning - ENABLED
+       1: Enable private key wrapping - DISABLED
+       2: Enable private key unwrapping - ENABLED
+       3: Enable private key masking - DISABLED
+       4: Enable secret key cloning - ENABLED
+       5: Enable secret key wrapping - ENABLED
+       6: Enable secret key unwrapping - ENABLED
+       7: Enable secret key masking - DISABLED
+      10: Enable multipurpose keys - ENABLED
+      11: Enable changing key attributes - ENABLED
+      14: Enable PED use without challenge - ENABLED
+      15: Allow failed challenge responses - ENABLED
+      16: Enable operation without RSA blinding - ENABLED
+      17: Enable signing with non-local keys - ENABLED
+      18: Enable raw RSA operations - ENABLED
+      20: Max failed user logins allowed - 10
+      21: Enable high availability recovery - ENABLED
+      22: Enable activation - DISABLED
+      23: Enable auto-activation - DISABLED
+      25: Minimum pin length (inverted: 255 - min) - 248
+      26: Maximum pin length - 255
+      28: Enable Key Management Functions - ENABLED
+      29: Enable RSA signing without confirmation - ENABLED
+      30: Enable Remote Authentication - ENABLED
+      31: Enable private key unmasking - ENABLED
+      32: Enable secret key unmasking - ENABLED

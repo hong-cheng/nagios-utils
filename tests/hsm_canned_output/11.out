@@ -1,0 +1,42 @@
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+Detecting Luna devices ...
+Detection complete.
+
+----------------------------------------
+lunadiag  version 8.0  Date: Oct 17 2011 Time: 13:59:38
+----------------------------------------
+Slot under test: 1
+
+[Testing slot 1]
+
+	Token label -> myluna1                         
+	Token Manufacturer -> Safenet, Inc.
+	Token Model -> K6 Base
+	Token Flags -> 
+		CKF_RNG 
+		CKF_LOGIN_REQUIRED 
+		CKF_USER_PIN_INITIALIZED 
+		CKF_RESTORE_KEY_NOT_NEEDED 
+		CKF_TOKEN_INITIALIZED 
+	Open sessions (Read-Write/Read-Only) -> 4 / 12
+	Max sessions (Read-Write/Read-Only) -> 65535 / 65535
+	PIN Length (Minimum/Maximum) -> 7 / 255
+	Total memory (flash / ram) -> 16776904 / 16776704
+	Free Memory (flash / ram) -> 16686408 / 16763300
+
+	HSM Storage Information 
+		Total: 2097152
+		Used:  2097152
+		Free:  0
+
+	SO Container Storage Information 
+		Total:        262144
+		Used:         0
+		Free:         262144
+		Object Count: 0
+
+	User Container Storage Information 
+		Total:        2094996
+		Used:         12996
+		Free:         2082000
+		Object Count: 12
